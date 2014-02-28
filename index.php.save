@@ -1,0 +1,10 @@
+Fish-Pi Here
+<pre>
+<?php
+//flashlights = ('sudo python /home/pi/Desktop/scripts/phptest.py');
+//dirlist = ('ls');
+echo exec ('sudo python /home/pi/Desktop/scripts/phptest.py'sudo python /home/pi/Desktop/scripts/phptest.py'<button onclick="check('test')">Test</button>
+');
+?>
+<button onclick=<?php exec('test.pl') ?>Run Perl</button>
+</pre>

@@ -1,0 +1,5 @@
+import os
+import subprocess
+path = "/var/www/fishpi/code/"
+x = ("/opt/vc/bin/vcgencmd measure_temp")
+print x
